@@ -1,18 +1,18 @@
-div{
-    background-color: #000000;
-    color: white
+div {
+  background-color: #000000;
+  color: white;
 }
-.QuadradoVinho{
-    border-radius: 10px;
-    height: 250px;
-    width: 250px;
-    background-color: rgb(255, 0, 212);
-    margin: 20px 10px 30px 40px;
+.QuadradoVinho {
+  border-radius: 10px;
+  height: 250px;
+  width: 250px;
+  background-color: rgb(255, 0, 212);
+  margin: 20px 10px 30px 40px;
 }
-.QuadradoLaranja{
-    border-radius: 100px;
-    height: 250px;
-    width: 250px;
-    background-color: orange;
-    margin: 20px 10px 30px 40px;
+.QuadradoLaranja {
+  border-radius: 100px;
+  height: 250px;
+  width: 250px;
+  background-color: orange;
+  margin: 20px 10px 30px 40px;
 }
